@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **React,Node, C++, Javascipt, Go**
 
-- 📫 How to reach me **gmail.com**
+- 📫 How to reach me **meenamonu2002@gmail.com**
 
 <!-- - 📄 Know about my experiences [https://portfolio.md-riyazulriyaz.repl.co/](https://portfolio.md-riyazulriyaz.repl.co/) -->
 

@@ -29,7 +29,7 @@
 👇 Hit in your console or terminal to connect with me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ```bash
-npx riyaz
+npx Onolax
 ```
 [![Onolax's GitHub | Stats](https://stats.quine.sh/Onolax/github?theme=light)](https://quine.sh)
 [![Onolax's GitHub | Dependencies](https://stats.quine.sh/Onolax/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Onolax)
